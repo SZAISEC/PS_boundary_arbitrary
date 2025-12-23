@@ -1,5 +1,5 @@
-# PS_boundary
-我们收集了 10 部不同型号手机拍摄的 1000 张图书封面图片。原始图像被 5 位 PS 专家进行手动篡改，并且为了消除篡改区域与原始区域之间的不一致性，我们要求这些 PS 专家使用 PS软件中的工对被篡改区域的边界进行后处理。最终我们一共收集了 1000 张边界经过后处理的封面篡改图像，这个数据集中图像的分辨率从 2340×4160 到 3744×4992 不等。
+# PS_boundary [[Baidu Netdisk](https://pan.baidu.com/s/1FdV9rMkEVbidP_eHbnisWw?pwd=9410)]
+We collected 1,000 book cover images captured by 10 different smartphone models. The original images were manually tampered with by five Photoshop (PS) experts. To eliminate inconsistencies between the tampered and original regions, these experts were instructed to use PS tools to post-process the boundaries of the manipulated areas. Ultimately, we compiled a dataset of 1,000 tampered cover images with post-processed boundaries, with image resolutions ranging from 2340×4160 to 3744×4992.
 
-# PS_arbitrary
-除了修改篡改区域的边界外，一些经验丰富的伪造者还可能对被篡改区域执行任意操作。考虑到这种实际的图像篡改场景，我们另外邀请了 10 位 PS 专家对上述 1000 张原始图像进行篡改，并要求他们使用任何合适的操作和工具，使被篡改的图像在视觉上与真实图像难以区分。
+# PS_arbitrary [[Baidu Netdisk](https://pan.baidu.com/s/1ZQw-h29ausfJTxOeWO5EBQ?pwd=9410)]
+In addition to boundary modifications, experienced forgers may perform arbitrary operations on the tampered regions. Considering this realistic image forgery scenario, we invited another 10 PS experts to manipulate the aforementioned 1,000 original images. They were encouraged to use any suitable operations and tools to make the forged images visually indistinguishable from authentic ones.
