@@ -7,3 +7,17 @@ We collected 1,000 book cover images captured by 10 different smartphone models.
 [[Google Drive](https://drive.google.com/file/d/1iCgJrC3xOSms3eSUBFuNmtNjGNiWQoLi/view?usp=sharing)] [[Baidu Netdisk](https://pan.baidu.com/s/1ZQw-h29ausfJTxOeWO5EBQ?pwd=9410)]
 
 In addition to boundary modifications, experienced forgers may perform arbitrary operations on the tampered regions. Considering this realistic image forgery scenario, we invited another 10 PS experts to manipulate the aforementioned 1,000 original images. They were encouraged to use any suitable operations and tools to make the forged images visually indistinguishable from authentic ones.
+
+## 🌟 Citation
+If you find our work useful, please cite:
+```bibtex
+@article{zhuang2021image,
+	title={Image tampering localization using a dense fully convolutional network},
+	author={Zhuang, Peiyu and Li, Haodong and Tan, Shunquan and Li, Bin and Huang, Jiwu},
+	journal={IEEE Transactions on Information Forensics and Security},
+	volume={16},
+	pages={2986--2999},
+	year={2021},
+	publisher={IEEE}
+}
+```
